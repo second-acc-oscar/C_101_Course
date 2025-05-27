@@ -2,7 +2,7 @@
 
 Curso desarrollado para que el estudiate aprenda por sí mismo el lenguaje C; desde cero sin ningún conocimiento antecedente sobre la programación, hasta las estructuras de datos lineales, en dos unidades:
 
-**I. Fundamentos de Programación**
+**I. Fundamentos de Programación** <br>
 **II. Estructuras de Datos Lineales**
 
 <hr>
