@@ -42,3 +42,13 @@ El orden de las lecciones, según su unidad, son los siguientes:
 10. Pilas
 11. Colas
 12. Listas
+
+<hr>
+
+A lo largo del curso se estará trabajando con código en C, si no se está familiarizado con el proceso de compilar y ejecutar código mediante una terminal, es recomendable utilizar entornos en línea que automatizan ésto, tales como [Online GDB](https://www.onlinegdb.com/), sin embargo es altamente recomendable que, eventualmente, este proceso pase a hacerse de forma manual.
+Para ésto primero hay que primero instalar el compilador, se puede seguir un [tutorial](https://www.youtube.com/watch?v=GEZLjRSY_m8&t=300s) muy sencillo para ésto.
+Entonces, para compilar se hace uso de la sintaxis:
+`gcc main.c -o main.exe`
+Si compiló correctamente, no habrá ningún aviso, se habrá creado el archivo `main.exe` y se puede ejecutar mediante:
+`./main.exe`
+En el curso, sin embargo, se profundiza en la forma de compilar y ejecutar de manera manual código en C.
