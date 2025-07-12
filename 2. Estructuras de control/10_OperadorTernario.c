@@ -1,4 +1,4 @@
-// 9. Conociendo el operador ternario
+// 10. Conociendo el operador ternario
 
 #include <stdio.h>
 

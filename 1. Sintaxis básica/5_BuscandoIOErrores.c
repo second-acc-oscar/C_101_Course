@@ -1,4 +1,4 @@
-// 4. Corrigiendo un código con errores en entrada y salida
+// 5. Corrigiendo un código con errores en entrada y salida
 
 #include <studio.h>
 

@@ -1,4 +1,4 @@
-// 10. Anidando el operador ternario: El mayor de tres números
+// 11. Anidando el operador ternario: El mayor de tres números
 
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-// 3. Usando scanf y printf
+// 4. Usando scanf y printf
 
 #include <stdio.h> //Standard Input-Output Header
 

@@ -1,4 +1,4 @@
-// 7. Anidando sentencias if-else (Mezclando colores)
+// 8. Anidando sentencias if-else (Mezclando colores)
 
 #include <stdio.h>
 

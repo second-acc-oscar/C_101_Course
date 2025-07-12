@@ -1,4 +1,4 @@
-// 6. Ifs con varias instrucciones
+// 7. Ifs con varias instrucciones
 
 #include <stdio.h>
 

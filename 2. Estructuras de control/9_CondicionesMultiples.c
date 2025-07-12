@@ -1,4 +1,4 @@
-// 8. Usando operadores lógicos
+// 9. Usando operadores lógicos
 
 #include <stdio.h>
 

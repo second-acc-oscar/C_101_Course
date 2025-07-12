@@ -1,4 +1,4 @@
-// 5. Usando el if-else
+// 6. Usando el if-else
 
 #include <stdio.h>
 
